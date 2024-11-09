@@ -12,11 +12,5 @@ jobs:
           node-version: '20'
       - name: Install dependencies
         run: npm i markdownlint-cli
-      - name: DEBUG list files
-        run: ls
-      - name: DEBUG view makefile
-        run: cat makefile
-      - name: DEBUG use markdownlint
-        run: npx markdownlint readme.md
       - name: Lint code
         run: make lint
