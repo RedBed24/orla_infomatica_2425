@@ -1,5 +1,7 @@
 DATE := $(shell LC_TIME="es_ES.UTF-8" date +%c)
 FLAGS := --toc --metadata date="$(DATE)"
+HTML_TEMPLATE := templates/default.html
+CSS := templates/style.css
 
 all: lint doc web
 
@@ -10,7 +12,7 @@ web: index.html
 	pandoc $(FLAGS) -o $@ $^
 
 index.html: readme.md
-	pandoc $(FLAGS) --standalone -o $@ $^
+	pandoc $(FLAGS) --template=$(HTML_TEMPLATE) --css=$(CSS) -o $@ $^
 
 lint:
 	npx markdownlint --disable MD013 -- readme.md

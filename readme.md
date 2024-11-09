@@ -1,7 +1,6 @@
 ---
 lang: es-ES
 title: Orla Informática 2024-2025
-colorlinks: True
 ---
 
 ## Notas
