@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "garlicbreadcleric.pandoc-markdown-syntax"
+    ]
+}
