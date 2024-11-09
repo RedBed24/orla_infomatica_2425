@@ -13,7 +13,7 @@ index.html: readme.md
 	pandoc $(FLAGS) --standalone -o $@ $^
 
 lint:
-	markdownlint --disable MD013 -- readme.md
+	npx markdownlint --disable MD013 -- readme.md
 
 clean:
 	rm *~ readme.pdf index.html
