@@ -17,6 +17,6 @@ jobs:
       - name: DEBUG view makefile
         run: cat makefile
       - name: DEBUG use markdownlint
-        run: markdownlint readme.md
+        run: npx markdownlint readme.md
       - name: Lint code
         run: make lint
