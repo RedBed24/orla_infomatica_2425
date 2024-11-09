@@ -1,4 +1,4 @@
-DATE := $(shell date +%c)
+DATE := $(shell LC_TIME="es_ES.UTF-8" date +%c)
 FLAGS := --toc --metadata date="$(DATE)"
 
 all: doc web
