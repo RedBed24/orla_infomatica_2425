@@ -16,12 +16,12 @@ La orla de informática de este curso 2024-2025 ya se está organizando.
 Este año, como otros, lo haremos con la empresa [Javiceci](https://www.javiceci.com/).
 Más abajo podéis ver un resumen de la oferta además del [cartel promocional de Javiceci](#javiceci-cartel).  <!-- markdownlint-disable MD051 -->
 
-![Cartel de promoción Javiceci](javiceci-cartel.jpeg){#javiceci-cartel}
+![Cartel de promoción Javiceci](images/javiceci-cartel.jpeg){#javiceci-cartel}
 
 Para participar hay que rellenar el [form](https://forms.office.com/e/iR9SrQ9Jgr).
 Se recomienda hacerlo después de haber leído toda la información.
 
-![QR para form](QRCode%20for%20Graduación%20Informática%202024-2025.png)
+![QR para form](images/QRCode%20for%20Graduación%20Informática%202024-2025.png)
 
 ## Oferta
 
