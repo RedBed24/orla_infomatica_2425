@@ -120,6 +120,8 @@ Esta votación se realizará mediante el formulario proporcionado.
 La fecha a reservar será la mas votada, se pueden votar varias.
 Se pedirá reservar la fecha, cuando esta haya sido concretada, se mandará un correo a los participantes con la fecha elegida, además de avisarse por el [actual grupo de whatsapp de cuarto](https://chat.whatsapp.com/CNPwK6FEfDbDTfTlIs1v7a).
 
+![QR grupo Whatsapp](images/whatsapp-4to-qr.svg)
+
 En caso de no poderse asistir, se deberá mandar un correo a [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es).
 Las fechas, una vez decidias no se pueden cambiar.
 
