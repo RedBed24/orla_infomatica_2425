@@ -12,5 +12,11 @@ jobs:
     needs: setup
     runs-on: ubuntu-latest
     steps:
+      - name: DEBUG list files
+        run: ls
+      - name: DEBUG view makefile
+        run: cat makefile
+      - name: DEBUG use markdownlint
+        run: markdownlint readme.md
       - name: Lint code
         run: make lint
