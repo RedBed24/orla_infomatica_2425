@@ -5,7 +5,7 @@ title: Orla Informática 2024-2025
 
 ## Notas
 
-**ESTE DOCUMENTO ESTÁ SUJETO A CAMBIOS. TODAVÍA HAY PUNTOS QUE ESTÁN DECIDIÉNDOSE. LA ORGANIZACIÓN SE RESERVA EL DERECHO A MODIFICARLO. *SÍ, LA INSCRIPCIÓN NO ESTÁ HECHA A FECHA DE PUBLICACIÓN DE ESTE DOC, DEJADME DORMIR***
+**ESTE DOCUMENTO ESTÁ SUJETO A CAMBIOS. TODAVÍA HAY PUNTOS QUE ESTÁN DECIDIÉNDOSE. LA ORGANIZACIÓN SE RESERVA EL DERECHO A MODIFICARLO.**
 
 ## Información básica
 
@@ -19,12 +19,13 @@ Más abajo podéis ver un resumen de la oferta además del [cartel promocional d
 
 Para participar hay que rellenar el [form](https://forms.office.com/e/iR9SrQ9Jgr).
 Se recomienda hacerlo después de haber leído toda la información.
+Este formulario quedará modificable hasta el día de las fotos.
 
 ![QR para form](images/QRCode%20for%20Graduación%20Informática%202024-2025.png)
 
 ## Oferta
 
-Cada alumno podrá elegir una de tres opciones:
+Cada alumno que participe deberá elegir una de tres opciones:
 
 1. Orla
 
@@ -83,6 +84,11 @@ Las becas (cintas con el escudo de la escuela) corren a cuenta de la escuela :D,
    Durante la sesión de fotos, si se ve algo, se puede indicar.
    En caso de verse a posteriori, en la página web, también se puede pedir mediante correo a [Javiceci](mailto:javiceci@javiceci.com).
 
+   De forma general, se eliminarán los granos sin avisar.
+
+   Habrá una fecha límite, por ahora desconocida, en la que no se podrán realizar mas cambios.
+   La organización avisará con antelación de esta y mandará recordatorios.
+
 3. Número de fotos ilimitado.
 
    Durante el día de las fotos, cumpliendo horarios, hasta que se tenga la foto que más guste.
@@ -96,6 +102,7 @@ Las becas (cintas con el escudo de la escuela) corren a cuenta de la escuela :D,
 
    Javiceci aportará la camisa blanca o cuello camisero blanco, corbata, capelina y beca.
    No se disponen de todas las tallas.
+   Es recomendable traer una camisa de casa.
 
 ### Profesores
 
@@ -127,6 +134,14 @@ Las fechas, una vez decidias no se pueden cambiar.
 
 El/los día/s de la foto, cada persona tendrá un horario marcado.
 Este está pensado para que no se acumule mucha gente y se siga un orden.
+En principio se marcan horarios de 10 minutos.
+
+Para la organización de estos se preparará un excel en el que sólo las personas que hayan rellenado el form podrán editar.
+Se dará una primera aproximación en orden de haber rellenado el form, si a la hora propuesta no es posible la asistencia, se marcará en el excel.
+Dos personas podrán cambiarse el turno si entre ellas se consiguen organizar, debe quedar por escrito en el excel este cambio.
+Si aún así sigue habiendo problemas, se resolverá mediante correos con la organización, [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es), [Javiceci](mailto:mailto:javiceci@javiceci.com) y el/la implicado/a.
+
+En caso de estar disfrutando de una beca de movilidad (SICUE o Erasmus) y querer participar, se procederá de la misma forma.
 
 ## Lugar
 
@@ -138,7 +153,7 @@ Todavía no se sabe la sala en concreto, una vez se concrete fecha, se reservar�
 
 ## Pagos
 
-Se realizará el mismo día de la fotografía, en efectivo.
+**Se realizará el mismo día de la fotografía, en efectivo.**
 
 > El precio acordado por ambas partes, y que deberá abonar cada alumno en el momento de la realización de las fotografías, dependerá de la opción elegida.
 
@@ -165,9 +180,17 @@ Por defecto, se recogerá en el estudio de Javiceci.
 
 ## Cuestiones extras
 
-> Una vez enviada la pureba por la empersa al representante de la carrera para su correción, y dando este su visto bueno, no se incluirá en esta a ningún nuevo alumno.
+> Una vez enviada la prueba por la empersa al representante de la carrera para su correción, y dando este su visto bueno, no se incluirá en esta a ningún nuevo alumno.
 > En caso de existir algún nuevo alumno, se le podrá hacer a este, una orla especial, previo pago de su importe, acordado por ambas partes.
+
+Desde la Dirección de la ESI se nos recomienda que, solamente los alumnos que estén cursando cuarto curso con asignaturas de intensificación u optativas y con el TFG pendiente, sean los que puedan participar en la orla.
+
+Sólo se puede rellenar el formulario 1 vez por cuenta, con posibilidad de edición hasta el día de las fotos.
+Si se quiere modificar el mismo día de la foto, debe comunicarse y quedar por escrito en el papel preparado por la organización.
+
+Habrá un periodo, actualmente desconocido, donde la orla esté como propuesta en la web, donde cada alumno es responsable de comprobar imperfecciones como cambios de nombres.
+En caso de detección de alguno de estos, se procederá igual que durante la correción de imperfecciones personales, es decir,mediante correo a [Javiceci](mailto:javiceci@javiceci.com).
 
 Cualquier otra pregunta, contactar con [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es).
 
-**ESTE DOCUMENTO ESTÁ SUJETO A CAMBIOS. TODAVÍA HAY PUNTOS QUE ESTÁN DECIDIÉNDOSE. LA ORGANIZACIÓN SE RESERVA EL DERECHO A MODIFICARLO. *SÍ, LA INSCRIPCIÓN NO ESTÁ HECHA A FECHA DE PUBLICACIÓN DE ESTE DOC, DEJADME DORMIR***
+**ESTE DOCUMENTO ESTÁ SUJETO A CAMBIOS. TODAVÍA HAY PUNTOS QUE ESTÁN DECIDIÉNDOSE. LA ORGANIZACIÓN SE RESERVA EL DERECHO A MODIFICARLO.**
