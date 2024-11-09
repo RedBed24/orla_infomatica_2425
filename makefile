@@ -9,7 +9,7 @@ doc: readme.pdf
 web: index.html
 
 %.pdf: %.md
-	pandoc $(FLAGS) -o $@ $^
+	pandoc $(FLAGS) --variable=colorlinks:True --shift-heading-level-by=-1 -o $@ $^
 
 index.html: readme.md
 	pandoc $(FLAGS) --template=$(HTML_TEMPLATE) --css=$(CSS) -o $@ $^
