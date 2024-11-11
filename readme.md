@@ -3,11 +3,36 @@ lang: es-ES
 title: Orla Informática 2024-2025
 ---
 
+<!-- markdownlint-disable MD033 -->
+<script type="module">
+   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+   mermaid.initialize({ startOnLoad: true });
+</script>
+<!-- markdownlint-enable MD033 -->
+
 ## Notas
 
 **ESTE DOCUMENTO ESTÁ SUJETO A CAMBIOS. TODAVÍA HAY PUNTOS QUE ESTÁN DECIDIÉNDOSE. LA ORGANIZACIÓN SE RESERVA EL DERECHO A MODIFICARLO.**
 
 ## Información básica
+
+<!-- markdownlint-disable MD033 -->
+<pre class="mermaid" id="calendario">
+gantt
+   title Fechas Orla
+   dateFormat  YYYY-MM-DD
+   axisFormat %d/%m
+   tickInterval 1week
+   weekday monday
+   todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+
+   section Inscripciones
+      Formulario abierto    :a1, 2024-11-09, 16d
+
+   section Fotos
+      Posibles fechas para foto  :b1, 2024-11-25, 28d
+</pre>
+<!-- markdownlint-enable MD033 -->
 
 ¡Buenas!
 
@@ -117,6 +142,8 @@ Por experiencia de Javiceci, otros años, los profes se suelen hacer las fotos e
 > El representante deberá comunicar a los profesores que desee que aparezca en la orla, y podrán (los profesores) reservar cita en el 926 22 20 20 o se podrán utilizar aquellos que tenga la empresa en sus archivos de años anteriores, los cuales podrán elegir renovar o no la fotografía.
 
 ## Fechas
+
+Puedes ver un [calendario al principio de la página](#calendario) que se va actualizando a conforme pasan los días.
 
 Para las fotos normales, se votará entre todos los participantes fechas aproximadas, en principio:
 
