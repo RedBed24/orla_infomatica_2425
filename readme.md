@@ -38,7 +38,7 @@ gantt
 
 La orla de informática de este curso 2024-2025 ya se está organizando.
 Este año, como otros, lo haremos con la empresa [Javiceci](https://www.javiceci.com/).
-Más abajo podéis ver un resumen de la oferta además del [cartel promocional de Javiceci](#javiceci-cartel).  <!-- markdownlint-disable MD051 -->
+Más abajo podéis ver un resumen de la oferta además del [cartel promocional de Javiceci](#javiceci-cartel).  <!-- markdownlint-disable-line MD051 -->
 
 ![Cartel de promoción Javiceci](images/javiceci-cartel.jpeg){#javiceci-cartel}
 
