@@ -30,9 +30,12 @@ gantt
       Formulario abierto    :a1, 2024-11-09, 16d
 
    section Fotos
-      Posibles fechas para foto  :b1, 2024-11-25, 28d
+      Días reservados para las fotos :b1, 2024-12-10, 2d
 </pre>
 <!-- markdownlint-enable MD033 -->
+
+Las fotos se realizarán en la sala **Mónico Sánchez** (primera planta ESI, entre las 2 escaleras), en los días **10 y 11 de Diciembre**.
+Para ver en qué momento del día te toca, puedes mirar el excel (todavía no está).
 
 ¡Buenas!
 
@@ -143,25 +146,17 @@ Por experiencia de Javiceci, otros años, los profes se suelen hacer las fotos e
 
 ## Fechas
 
+Las fotos se realizarán en los días **10 y 11 de Diciembre**.
+
 Puedes ver un [calendario al principio de la página](#calendario) que se va actualizando a conforme pasan los días.
 
-Para las fotos normales, se votará entre todos los participantes fechas aproximadas, en principio:
-
-1. Finales de Noviembre
-2. Principios de Diciemre
-
-Esta votación se realizará mediante el formulario proporcionado.
-La fecha a reservar será la mas votada, se pueden votar varias.
-Se pedirá reservar la fecha, cuando esta haya sido concretada, se mandará un correo a los participantes con la fecha elegida, además de avisarse por el [actual grupo de whatsapp de cuarto](https://chat.whatsapp.com/CNPwK6FEfDbDTfTlIs1v7a).
-
-![QR grupo Whatsapp](images/whatsapp-4to-qr.svg)
-
 En caso de no poderse asistir, se deberá mandar un correo a [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es).
-Las fechas, una vez decidias no se pueden cambiar.
+Las fechas no se pueden cambiar.
 
 El/los día/s de la foto, cada persona tendrá un horario marcado.
 Este está pensado para que no se acumule mucha gente y se siga un orden.
 En principio se marcan horarios de 10 minutos.
+Para ver en qué momento del día te toca, puedes mirar el excel (todavía no está).
 
 Para la organización de estos se preparará un excel en el que sólo las personas que hayan rellenado el form podrán editar.
 Se dará una primera aproximación en orden de haber rellenado el form, si a la hora propuesta no es posible la asistencia, se marcará en el excel.
@@ -172,11 +167,8 @@ En caso de estar disfrutando de una beca de movilidad (SICUE o Erasmus) y querer
 
 ## Lugar
 
-Una vez decidida la fecha, las fotos se realizarán en una sala de la escuela reservada para esto.
+En la sala **Mónico Sánchez** (primera planta ESI, entre las 2 escaleras).
 Allí estará todo el equipamiento necesario, aportado por Javiceci.
-
-La sala estará en la Escuela Superior de Informática, ESI.
-Todavía no se sabe la sala en concreto, una vez se concrete fecha, se reservará sala y se eviará un correo a los interesados.
 
 ## Pagos
 
@@ -217,6 +209,12 @@ Si se quiere modificar el mismo día de la foto, debe comunicarse y quedar por e
 
 Habrá un periodo, actualmente desconocido, donde la orla esté como propuesta en la web, donde cada alumno es responsable de comprobar imperfecciones como cambios de nombres.
 En caso de detección de alguno de estos, se procederá igual que durante la correción de imperfecciones personales, es decir,mediante correo a [Javiceci](mailto:javiceci@javiceci.com).
+
+Las personas que sólo compren orla, también aparecerán en el orlín de su intensificación.
+
+También puedes recibir información mediante el [actual grupo de whatsapp de cuarto](https://chat.whatsapp.com/CNPwK6FEfDbDTfTlIs1v7a).
+
+![QR grupo Whatsapp](images/whatsapp-4to-qr.svg)
 
 Cualquier otra pregunta, contactar con [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es).
 
