@@ -35,7 +35,7 @@ gantt
 <!-- markdownlint-enable MD033 -->
 
 Las fotos se realizarán en la sala **Mónico Sánchez** (primera planta ESI, entre las 2 escaleras), en los días **10 y 11 de Diciembre**.
-Para ver en qué momento del día te toca, puedes mirar el excel (todavía no está).
+Para ver en qué momento del día te toca, puedes mirar el [excel](https://pruebasaluuclm-my.sharepoint.com/:x:/g/personal/samuel_espejo_alu_uclm_es/EfNQ5z9XQY5EoiRzajFHNeYBXQbKTAUuRiZO2f25xRXLCw).
 
 ¡Buenas!
 
@@ -156,11 +156,11 @@ Las fechas no se pueden cambiar.
 El/los día/s de la foto, cada persona tendrá un horario marcado.
 Este está pensado para que no se acumule mucha gente y se siga un orden.
 En principio se marcan horarios de 10 minutos.
-Para ver en qué momento del día te toca, puedes mirar el excel (todavía no está).
+Para ver en qué momento del día te toca, puedes mirar el [excel](https://pruebasaluuclm-my.sharepoint.com/:x:/g/personal/samuel_espejo_alu_uclm_es/EfNQ5z9XQY5EoiRzajFHNeYBXQbKTAUuRiZO2f25xRXLCw).
 
 Para la organización de estos se preparará un excel en el que sólo las personas que hayan rellenado el form podrán editar.
 Se dará una primera aproximación en orden de haber rellenado el form, si a la hora propuesta no es posible la asistencia, se marcará en el excel.
-Dos personas podrán cambiarse el turno si entre ellas se consiguen organizar, debe quedar por escrito en el excel este cambio.
+Dos personas podrán cambiarse el turno si entre ellas se consiguen organizar.
 Si aún así sigue habiendo problemas, se resolverá mediante correos con la organización, [Samuel Espejo](mailto:samuel.espejo@alu.uclm.es), [Javiceci](mailto:mailto:javiceci@javiceci.com) y el/la implicado/a.
 
 En caso de estar disfrutando de una beca de movilidad (SICUE o Erasmus) y querer participar, se procederá de la misma forma.
